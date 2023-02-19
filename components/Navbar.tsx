@@ -56,7 +56,7 @@ export default function Navbar() {
                         fontFamily={'heading'}
                         color={useColorModeValue('gray.800', 'white')}>
                         <Button as={"a"} href="/">
-                            Logo
+                            My Logo
                         </Button>
                     </Text>
 
